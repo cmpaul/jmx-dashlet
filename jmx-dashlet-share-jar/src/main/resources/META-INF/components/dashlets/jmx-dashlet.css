@@ -1,0 +1,25 @@
+div.scrollable {
+    overflow: auto;
+}
+
+div.dashlet-content {
+	padding: 5px;
+}
+
+.dashlet .body.jmxdashlet {
+	overflow: hidden;
+}
+
+div.jmxdashlet-main {
+	height: 100%;
+}
+
+.dashlet .body h3.jmxdashlet-title {
+	font-weight: bold;
+}
+
+.jmxdashlet-moreinfo {
+	font-size: 10px;
+	font-family: sans-serif;
+	text-align: center;
+}

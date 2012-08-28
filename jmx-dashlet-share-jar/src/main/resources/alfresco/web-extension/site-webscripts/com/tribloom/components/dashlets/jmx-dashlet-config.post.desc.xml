@@ -1,0 +1,7 @@
+<webscript>
+	<name>JMX Dashlet Configuration Webscript (POST)</name>
+	<shortname>jmx-dashlet-config-post</shortname>
+	<description>A webscript for saving the configuration for the JMX Dashlet.</description>
+	<url>/jmxdashlet/config/{componentId}</url>
+	<format default="json">argument</format>
+</webscript>

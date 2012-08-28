@@ -1,0 +1,7 @@
+<webscript>
+	<name>JMX Dashlet Webscript</name>
+	<shortname>jmx-dashlet</shortname>
+	<description>A dashlet that displays server statistics using the JMX Client API.</description>
+	<family>dashlet</family>
+	<url>/tribloom/components/dashlets/jmxdashlet</url>
+</webscript>

@@ -1,0 +1,8 @@
+<webscript>
+	<name>JMX Client Webscript</name>
+	<shortname>jmxclient</shortname>
+	<url>/jmxclient</url>
+	<format default="json" />
+	<authentication>admin</authentication>
+	<transaction>none</transaction>
+</webscript>

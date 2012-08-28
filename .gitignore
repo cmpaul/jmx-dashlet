@@ -1,0 +1,4 @@
+target/
+.settings/
+alfresco.log*
+env.cpaul.properties

@@ -1,0 +1,6 @@
+<webscript>
+	<name>JMX Dashlet Configuration Webscript (GET)</name>
+	<shortname>jmx-dashlet-config-get</shortname>
+	<description>A webscript for retrieving the JMX Dashlet configuration.</description>
+	<url>/jmxdashlet/config</url>
+</webscript>

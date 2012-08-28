@@ -1,0 +1,5 @@
+<jmxclient>
+	<refreshInterval>60</refreshInterval>
+	<units>MB</units>
+	<vizlib>raphael</vizlib>
+</jmxclient>
